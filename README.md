@@ -1,6 +1,3 @@
-# spectra
-国内直连claudecode，无需VPN，稳定不封号
-
 <p align="center">
   <img src="icon.png" alt="Spectra Logo" width="120" />
 </p>
